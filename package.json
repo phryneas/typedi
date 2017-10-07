@@ -1,6 +1,6 @@
 {
   "name": "typedi",
-  "version": "0.5.2",
+  "version": "0.5.2-patched-phryneas-1",
   "description": "Dependency injection for TypeScript",
   "license": "MIT",
   "readmeFilename": "README.md",
@@ -9,6 +9,7 @@
     "name": "Umed Khudoiberdiev",
     "email": "pleerock.me@gmail.com"
   },
+  "main": "build/compiled/src/index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/pleerock/typedi.git"
